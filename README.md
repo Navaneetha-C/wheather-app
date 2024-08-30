@@ -1,2 +1,2 @@
-# wheather-app
-a simple wheather app
+# weather-app
+a simple weather app
